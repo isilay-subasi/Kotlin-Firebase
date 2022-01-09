@@ -24,3 +24,9 @@ Android Studio üzerinden örnek projemizi oluşturduktan sonra backend işlemle
 </p><br>
 
 ![step1](https://github.com/isilay-subasi/Kotlin-Firebase/blob/main/images/step1.png)
+
+<p>
+Oluşturulan proje konsolundan Android uygulamamızı ekliyoruz. Sonrasında login ekranında kimlik doğrulamayı etkinleştirmemiz için Authentication kısmından email/şifre alanını etkinleştiriyoruz.
+</p><br>
+
+![step2](https://github.com/isilay-subasi/Kotlin-Firebase/blob/main/images/step2.png)
