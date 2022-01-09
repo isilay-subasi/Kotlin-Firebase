@@ -22,3 +22,5 @@ Google'ın sunmuş olduğu bir hizmettir.Sunucu,depolama aracı,veritabanı gibi
 <p>
 Android Studio üzerinden örnek projemizi oluşturduktan sonra backend işlemlerini gerçekleştirmek için Firebase konsoldan bir örnek proje oluşturuyoruz.
 </p><br>
+
+![step1](https://github.com/isilay-subasi/Kotlin-Firebase/blob/main/images/step1.png)
