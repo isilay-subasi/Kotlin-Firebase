@@ -30,3 +30,9 @@ Oluşturulan proje konsolundan Android uygulamamızı ekliyoruz. Sonrasında log
 </p><br>
 
 ![step2](https://github.com/isilay-subasi/Kotlin-Firebase/blob/main/images/step2.png)
+
+<p>
+Android Studio projemizdebuild.gradle(Module.app) dosyasının içerisine Firebase Authentication’ı ekliyoruz.
+</p><br>
+
+![step3](https://github.com/isilay-subasi/Kotlin-Firebase/blob/main/images/step3.png)
