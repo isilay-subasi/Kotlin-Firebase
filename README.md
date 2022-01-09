@@ -16,3 +16,9 @@ Google'ın sunmuş olduğu bir hizmettir.Sunucu,depolama aracı,veritabanı gibi
 + Functions
 + Machine Learning
 
+
+<h2><b>Nasıl Kullanılır ? </b></h2>
+
+<p>
+Android Studio üzerinden örnek projemizi oluşturduktan sonra backend işlemlerini gerçekleştirmek için Firebase konsoldan bir örnek proje oluşturuyoruz.
+</p><br>
